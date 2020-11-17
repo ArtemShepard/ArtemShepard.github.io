@@ -1,0 +1,60 @@
+*{
+	padding: 0;
+	margin: 0;
+	color: white;
+	font-size: 1em;
+	font-family: monospace,monospace;
+}
+html{
+	width: 100%;
+	height: 100%;
+}
+body{display: block;
+	width: 100%;
+	height: 100%;
+	background:url(../img/Hacker.gif);
+}
+#loaderbackground{
+	width: 500px;
+	height: 400px;
+	padding: 50px;
+	margin: 250px auto;
+	background: #151515;
+	border-radius: 10px;
+	opacity: 0.95;
+}
+.progressbackground{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 0px;
+	width: 300px;
+	height: 25px;
+	background-color: #585858;
+	float: left;	
+}
+#progressbackground1{
+	width: 350px;
+}
+#progressbackground2{
+	width: 270px;
+}
+#wait{
+	text-align: center;
+}
+.string{
+	min-height: 1.2em;
+}
+#progressline1{
+	width: 150px;
+	height: 25px;
+	background-color: white;
+}
+#progressline2{
+	width: 100px;
+	height: 25px;
+	background-color: white;
+}
+.maessage{
+	float: right;
+	margin-top: 20px;
+}
