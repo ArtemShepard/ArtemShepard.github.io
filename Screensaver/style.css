@@ -1,0 +1,20 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	background-color: #333;
+}
+#dvd{
+	width: 100px;
+	height: 50px;
+	background-color: blue;
+	text-align: center;
+	font-size: 2.5em;
+	padding: 15px;
+	border-radius: 10px;
+	color: red;
+	position: relative;
+	top: 15px;
+	left: 15px;
+	display: block;
+}
+}
